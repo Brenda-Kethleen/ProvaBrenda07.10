@@ -4,7 +4,7 @@
 
 Nome: Brenda Kethleen Cirqueira Lucas
 
-RA: >>> 23103459-2 <<<
+RA: 23103459-2
 
 Conta GitHub: @Brenda-Kethleen
 
