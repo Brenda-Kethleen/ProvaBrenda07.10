@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Brenda-Kethleen
+Nome: Brenda Kethleen Cirqueira Lucas
 
-RA: >>> PREENCHER <<<
+RA: >>> 23103459-2 <<<
 
 Conta GitHub: @Brenda-Kethleen
 
