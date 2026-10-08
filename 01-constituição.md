@@ -20,9 +20,9 @@ tasks
 
 ## 3. Convenções da API
 
-- Recursos no plural; JSON em camelCase.
+- Recursos no plural; snake_case.
 - IDs inteiros sequenciais a partir de 1.
-- Datas em ISO 8601 sem fuso.
+-ISO 8601 com fuso -03:00.
 
 ## 4. Status codes
 
@@ -31,17 +31,17 @@ tasks
 | Criar: 201 |
 | Consultar e listar: 200 |
 | Remover / cancelar: 204 |
-| Qualquer erro de validação: 400 (nunca 422) |
-| Inexistente ou cancelado: 404 |
+| Qualquer erro de validação: 422 em todos os erros de validação|
+| Inexistente ou cancelado: 409 |
 | Conflito: 409 |
 
-- Formato do erro: `{"detail": "mensagem"}`
+- Formato do erro: `{"detail": "<codigo>"}`
 - Precedência quando há mais de um erro: 400 > 404 > 409
 
 ## 5. Stack e contêiner
 
 - Python 3.12 + FastAPI; persistência em memória.
-- Um único contêiner Docker com a API, na porta 8000 em 0.0.0.0. Não há contêiner de banco.
+- Um único contêiner Docker com a API, na porta 8003 minha variante.
 - Dependências permitidas (lista fechada): [fastapi, uvicorn, pytest, httpx].
 
 ## 6. Encapsulamento
