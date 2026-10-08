@@ -1,5 +1,8 @@
 # Constituição — Zona Azul Digital
 
+## 0. Modelo de correção
+Kimi 2.8 — Preview 2026, sem chicote. Apenas o agente, com janela de 256k tokens , executa a tarefa proposta pelos seus .md
+
 ## 1. Ordem de prioridade
 
 Em caso de conflito vale: 
