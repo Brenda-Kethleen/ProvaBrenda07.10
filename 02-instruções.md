@@ -10,3 +10,17 @@ O seu papel será mplementar exatamente o que está em constituição, spec, pla
 2. Em cada task: escrever os testes dela, ver falhar, implementar, rodar a suíte inteira.
 3. Só passar para a próxima com tudo ok.
 
+## 3. Nunca
+
+- Inventar rota, campo, status code ou regra que não esteja no spec.
+- Alterar ou apagar um teste para ele passar.
+- Usar dependência fora da lista da constituição.
+- Furar o encapsulamento: o sentido é Rotas > Serviço > Store, e regra de negócio fica só no Serviço.
+
+## 4. Em caso de dúvida
+
+Seguir a ordem de prioridade. Nunca tente adivinhar.
+
+## 5. Formato da resposta
+
+Arquivos completos, cada um com o seu caminho. Nada de trechos soltos.
