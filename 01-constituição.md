@@ -49,11 +49,11 @@ tasks
 
 ## 7. Artefatos obrigatórios
 
-Todo código gerado inclui `Dockerfile`, `README.md`, `requirements.txt` e testes.
+Todo código gerado inclui Dockerfile, README.md, requirements.txt e testes.
 
 ## 8. Regras de teste
 
-- Um `def test_` por cenário do tests.
+- Um "def test_" por cenário do tests.
 - Testes independentes entre si; reset do Store antes de cada um.
 
 
