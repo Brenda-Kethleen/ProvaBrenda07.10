@@ -56,6 +56,17 @@ Todo código gerado inclui Dockerfile, README.md, requirements.txt e testes.
 - Um "def test_" por cenário do tests.
 - Testes independentes entre si; reset do Store antes de cada um.
 
+### variante para conhecimento:
+{
+  "slug": "ProvaBrenda07.10",
+  "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+  "TARIFA_HORA_CENTAVOS": 500,
+  "FRACAO_MINUTOS": 15,
+  "TETO_DIARIO_CENTAVOS": 6000,
+  "PORTA_SERVICO": 8003,
+  "TOLERANCIA_MINUTOS": 15
+}
+
 
 
 
