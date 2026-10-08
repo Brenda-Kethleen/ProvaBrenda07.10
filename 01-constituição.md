@@ -15,14 +15,14 @@ tasks
 ## 2. Idioma e nomes
 
 - Código em inglês; documentação em português.
-- Exceção: campos e rotas copiados do enunciado ficam literalmente como estão.
+- Exceção: campos, rotas, código de erro e valores copiados do enunciado ficam literalmente como estão.
 
 
 ## 3. Convenções da API
 
 - Recursos no plural; snake_case.
 - IDs inteiros sequenciais a partir de 1.
--ISO 8601 com fuso -03:00.
+- ISO 8601 com fuso -03:00.
 
 ## 4. Status codes
 
@@ -35,14 +35,14 @@ tasks
 | Inexistente ou cancelado: 409 |
 | Conflito: 409 |
 
-- Formato do erro: `{"detail": "<codigo>"}`
-- Precedência quando há mais de um erro: 400 > 404 > 409
+- Formato do erro: `{"erro": "<codigo>"}`
 
 ## 5. Stack e contêiner
 
 - Python 3.12 + FastAPI; persistência em memória.
 - Um único contêiner Docker com a API, na porta 8003 minha variante.
 - Dependências permitidas (lista fechada): [fastapi, uvicorn, pytest, httpx].
+- valor_centavos= int (sempre)
 
 ## 6. Encapsulamento
 
