@@ -37,8 +37,8 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
    dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
-| — | | |
+
+https://claude.ai/share/60c51943-edbf-4603-aa8c-8ae171015b64
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
