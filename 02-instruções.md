@@ -27,7 +27,7 @@ O seu papel será mplementar exatamente o que está em constituição, spec, pla
 
 ## 4. Em caso de dúvida
 
-Seguir a ordem de prioridade. Nunca tente adivinhar.
+Seguir a ordem de prioridade. Nunca tente adivinhar. (Se nenhum arquivo cobrir o caso, escolha a interpretação mais simples que não contradiga nenhum deles, sem criar rota ou campo novo, e registre a decisão no README.md. Nunca pare para perguntar: ninguém vai responder)
 
 ## 5. Formato da resposta
 
