@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "ProvaBrenda07.10",
+  "repo_url": "https://github.com/Brenda-Kethleen/ProvaBrenda07.10",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/Brenda-Kethleen/ProvaBrenda07.10/issues/1",
+  "gerado_em": "2026-10-08T01:58:10+00:00",
+  "fechada_em": "2026-10-08T01:57:47Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "Brenda-Kethleen",
+    "ra": "23103459",
+    "nome": "Brenda Kethleen Cirqueira Lucas"
+  },
+  "variante": {
+    "slug": "ProvaBrenda07.10",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 500,
+    "FRACAO_MINUTOS": 15,
+    "TETO_DIARIO_CENTAVOS": 6000,
+    "PORTA_SERVICO": 8003,
+    "TOLERANCIA_MINUTOS": 15
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-08T00:21:29Z",
+    "ultimo_push": "2026-10-07T22:57:36-03:00"
+  },
+  "commits": {
+    "total": 22,
+    "autores": [
+      "Brenda-Kethleen"
+    ],
+    "primeiro": "2026-10-07T21:11:39-03:00",
+    "ultimo": "2026-10-07T22:57:36-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 12
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
